@@ -616,7 +616,7 @@
     },
     {
       "name": "Object value",
-      "scope": ["meta.property-value.scss"],
+      "scope": ["meta.property-value.scss", "entity.name.tag.css"],
       "settings": {
         "foreground": "#fff"
       }
@@ -663,6 +663,13 @@
         "fontStyle": ""
       }
     }
+    // {
+    //   "name": "Unsued variable",
+    //   "scope": ["editorUnnecessaryCode.border"],
+    //   "settings": {
+    //     "editorUnnecessaryCode.border": "#dd7aab"
+    //   }
+    // }
     // For the string - END
   ]
 }
